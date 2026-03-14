@@ -1,0 +1,273 @@
+{
+  "lessons": [
+    {
+      "id": "lesson_1772739998644",
+      "title": "Cyberpunk 2077 'Welcome To Night City' by Clayton King [Cover]",
+      "description": "A step-by-step lesson covering rhythm, chords, and strumming patterns.",
+      "price": 9.99,
+      "previewVideo": "preview1.mp4",
+      "topics": [
+        {
+          "id": "t1",
+          "title": "Introduction & Overview",
+          "description": "What we will cover",
+          "videoPath": "song1_1.mp4"
+        },
+        {
+          "id": "t2",
+          "title": "Chords & Positions",
+          "description": "Finger positions and transitions",
+          "videoPath": "song1_2.mp4"
+        },
+        {
+          "id": "t3",
+          "title": "Full Playthrough",
+          "description": "Slow playthrough with tabs",
+          "videoPath": "song1_3.mp4"
+        }
+      ]
+    },
+    {
+      "id": "lesson_2_adag",
+      "title": "Crow Guitar[Denys Markelov Cover]",
+      "description": "Fingerpicking patterns and melody separation for 'Blackbird'.",
+      "price": 12.99,
+      "previewVideo": "preview2.mp4",
+      "topics": [
+        {
+          "id": "b1",
+          "title": "Intro & Fingerpicking",
+          "description": "Slow walkthrough of picking pattern",
+          "videoPath": "song2_1.mp4"
+        },
+        {
+          "id": "b2",
+          "title": "Left Hand Technique",
+          "description": "Fretting and transitions",
+          "videoPath": "song2_2.mp4"
+        },
+        {
+          "id": "b3",
+          "title": "Full Playthrough",
+          "description": "Slow playthrough with tabs",
+          "videoPath": "song2_3.mp4"
+        }
+      ]
+    },
+    {
+      "id": "lesson_3_rock",
+      "title": "Imagine Dragons - Eyes Closed [ Guitar version cover ]",
+      "description": "Learn the main riff, power-chords and solo breakdown.",
+      "price": 14.99,
+      "previewVideo": "preview3.mp4",
+      "topics": [
+        {
+          "id": "r1",
+          "title": "Riff & Rhythm",
+          "description": "Main riff and timing",
+          "videoPath": "song3_1.mp4"
+        },
+        {
+          "id": "r2",
+          "title": "Solo Breakdown",
+          "description": "Solo phrasing and bends",
+          "videoPath": "song3_2.mp4"
+        },
+        {
+          "id": "r3",
+          "title": "Full Playthrough",
+          "description": "Slow playthrough with tabs",
+          "videoPath": "song3_3.mp4"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3NvbiIsInNlc3Npb25JZCI6Ik1PQ0tfbGVzc29uXzE3NzI3Mzk5OTg2NDRfMTc3Mjc0MDg0NjU0NCIsImlhdCI6MTc3Mjc0MDg2MiwiZXhwIjoxNzcyODI3MjYyfQ.OltoPpGNBbmIBOynCxL18z5-Jwg5d_0bWlwxwekVSMw",
+      "lessonId": "lesson",
+      "sessionId": "MOCK_lesson_1772739998644_1772740846544",
+      "createdAt": 1772740862063
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI3NDA4OTk5ODAiLCJpYXQiOjE3NzI3NDA5MTIsImV4cCI6MTc3MjgyNzMxMn0.tvc-XvPL675yd_8tkXAWgAvrOGdIF9btImOymem6EKk",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772740899980",
+      "createdAt": 1772740912211
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI3NDEzOTQ3NzYiLCJpYXQiOjE3NzI3NDEzOTUsImV4cCI6MTc3MjgyNzc5NX0.UUrfd4fBToKa34t-LiTYD6irqaKlyeAVjFum7FGhRFk",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772741394776",
+      "createdAt": 1772741395165
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8yX2FkYWciLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fMl9hZGFnOjoxNzcyNzQxNDAwOTU2IiwiaWF0IjoxNzcyNzQxNDAxLCJleHAiOjE3NzI4Mjc4MDF9.olspowJtnEtoFjK1wrLMqBM1hkrsHrvRuXpFhg3C9vE",
+      "lessonId": "lesson_2_adag",
+      "sessionId": "MOCK::lesson_2_adag::1772741400956",
+      "createdAt": 1772741401340
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI3ODkwMzQ5NTIiLCJpYXQiOjE3NzI3ODkwMzUsImV4cCI6MTc3Mjg3NTQzNX0.mJAwLPrxaDH9aph3zKpDrCz-VKl3q-4smvr5HTJ0ALs",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772789034952",
+      "createdAt": 1772789035648
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI3ODkwMzQ5NTIiLCJpYXQiOjE3NzI3ODkwNDQsImV4cCI6MTc3Mjg3NTQ0NH0.wBfWiCh8LTUH4ljHwwxRw4np20iwgME6aK-iEZp6pVc",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772789034952",
+      "createdAt": 1772789044470
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI3OTU0MzAxOTEiLCJpYXQiOjE3NzI3OTU0MzAsImV4cCI6MTc3Mjg4MTgzMH0.Gw9JeD0rUozj1TEjhyanQq3VwKdS7eh3-j9Gz4omeE4",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772795430191",
+      "createdAt": 1772795430593
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8yX2FkYWciLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fMl9hZGFnOjoxNzcyNzk2OTU5OTE0IiwiaWF0IjoxNzcyNzk2OTYwLCJleHAiOjE3NzI4ODMzNjB9.DhuHdY_Pu2516ZxcdFz1oEg396nnAjOJzX_5fJb5Oqo",
+      "lessonId": "lesson_2_adag",
+      "sessionId": "MOCK::lesson_2_adag::1772796959914",
+      "createdAt": 1772796960540
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8yX2FkYWciLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fMl9hZGFnOjoxNzcyODI1NjkyMTAxIiwiaWF0IjoxNzcyODI1NjkzLCJleHAiOjE3NzI5MTIwOTN9.ynQ8dT7Xy-Q4rVxOL6EJ6N25wrmjpTQVkb8fkHBCnGI",
+      "lessonId": "lesson_2_adag",
+      "sessionId": "MOCK::lesson_2_adag::1772825692101",
+      "createdAt": 1772825693069
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8yX2FkYWciLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fMl9hZGFnOjoxNzcyODI1ODU1ODE1IiwiaWF0IjoxNzcyODI1ODU2LCJleHAiOjE3NzI5MTIyNTZ9.bYFeUGMIZpEtrIjx37VEyiliK01jo-s8ViEjqlmblEY",
+      "lessonId": "lesson_2_adag",
+      "sessionId": "MOCK::lesson_2_adag::1772825855815",
+      "createdAt": 1772825856402
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI4MjYxNTQ2NDMiLCJpYXQiOjE3NzI4MjYxNTUsImV4cCI6MTc3MjkxMjU1NX0.opMvD-hz1ySjxVoAiJ0uiusth5Hgdoqd98vDnsh_uek",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772826154643",
+      "createdAt": 1772826155389
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI4MjYyMDUyNzAiLCJpYXQiOjE3NzI4MjYyMDUsImV4cCI6MTc3MjkxMjYwNX0.ijakbor1LcxJZZNb3_zUn__t3FMlw5kx2kSJ-wQuhdo",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772826205270",
+      "createdAt": 1772826205642
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8zX3JvY2siLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fM19yb2NrOjoxNzcyODI2MjA5MTI2IiwiaWF0IjoxNzcyODI2MjA5LCJleHAiOjE3NzI5MTI2MDl9.QG6QdWX5DLs02h75cZUl8v_5m1Vn28aOZTsb5yRETks",
+      "lessonId": "lesson_3_rock",
+      "sessionId": "MOCK::lesson_3_rock::1772826209126",
+      "createdAt": 1772826209398
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8yX2FkYWciLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fMl9hZGFnOjoxNzcyODI2MzY0ODY3IiwiaWF0IjoxNzcyODI2MzY1LCJleHAiOjE3NzI5MTI3NjV9.LokTcMeJORHLzeEaTKAgQ-ramkyJvITBB299_2gBlds",
+      "lessonId": "lesson_2_adag",
+      "sessionId": "MOCK::lesson_2_adag::1772826364867",
+      "createdAt": 1772826365400
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI4MjY2NjkwMDUiLCJpYXQiOjE3NzI4MjY2NzAsImV4cCI6MTc3MjkxMzA3MH0.5napoOAUc6lF0k0KZIDelaz7pqIfE5knNLqznMROkWU",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772826669005",
+      "createdAt": 1772826670918
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8yX2FkYWciLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fMl9hZGFnOjoxNzcyODI3OTYxMDk3IiwiaWF0IjoxNzcyODI3OTYxLCJleHAiOjE3NzI5MTQzNjF9.zcEhVnWsehNNVeEGmZNt-ttoAbbUypWYVafnkoktqNw",
+      "lessonId": "lesson_2_adag",
+      "sessionId": "MOCK::lesson_2_adag::1772827961097",
+      "createdAt": 1772827961879
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI4Mjc5NzAyMzEiLCJpYXQiOjE3NzI4Mjc5NzEsImV4cCI6MTc3MjkxNDM3MX0.CtRA7xDiXD8img_508MoUZZCR7s4iYaPqvmNcR99gKs",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772827970231",
+      "createdAt": 1772827971591
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI4Mjg3NDQzMDMiLCJpYXQiOjE3NzI4Mjg3NDUsImV4cCI6MTc3MjkxNTE0NX0.s-DPmLj5-kT5oHu6tTGBIGyBnI6eOpGFJqmTV3khIYU",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772828744303",
+      "createdAt": 1772828745113
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI4MjkwMTEyNjciLCJpYXQiOjE3NzI4MjkwMTIsImV4cCI6MTc3MjkxNTQxMn0.8CHy4WD1g5HU4ifeNn_4QFnfU1FyahDLVM7RC9D0W0Y",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772829011267",
+      "createdAt": 1772829012115
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI4MjkxMzQzNTUiLCJpYXQiOjE3NzI4MjkxMzQsImV4cCI6MTc3MjkxNTUzNH0.1gFbGf7qpsXe4wvUlHWG7NrDRGYH1hVsUeigrDIwFWg",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772829134355",
+      "createdAt": 1772829134962
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI4Mjk2OTM4NDYiLCJpYXQiOjE3NzI4Mjk2OTQsImV4cCI6MTc3MjkxNjA5NH0.k04dY4kDHNgOr-VteaMSTd6f3EM7ULhB0jPu0D6LtT8",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772829693846",
+      "createdAt": 1772829694525
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8zX3JvY2siLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fM19yb2NrOjoxNzcyODMwODI2NTk5IiwiaWF0IjoxNzcyODMwODI3LCJleHAiOjE3NzI5MTcyMjd9.q83sgQeEmmEt8r6b8oPQj0xOZjvV1hUZtSfC684FdR4",
+      "lessonId": "lesson_3_rock",
+      "sessionId": "MOCK::lesson_3_rock::1772830826599",
+      "createdAt": 1772830827428
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8yX2FkYWciLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fMl9hZGFnOjoxNzcyODMwODM5MjExIiwiaWF0IjoxNzcyODMwODM5LCJleHAiOjE3NzI5MTcyMzl9.ess8e8X9iRtKfMMZHAbThbXgjNrTG86_qZxMaHH6cZ8",
+      "lessonId": "lesson_2_adag",
+      "sessionId": "MOCK::lesson_2_adag::1772830839211",
+      "createdAt": 1772830839809
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8yX2FkYWciLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fMl9hZGFnOjoxNzcyODMwODM5MjExIiwiaWF0IjoxNzcyODMwODQ2LCJleHAiOjE3NzI5MTcyNDZ9.FoiaSMly1X_M3CbKsSCxYqt4ut7G6OslE91lR5BBThQ",
+      "lessonId": "lesson_2_adag",
+      "sessionId": "MOCK::lesson_2_adag::1772830839211",
+      "createdAt": 1772830846665
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8yX2FkYWciLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fMl9hZGFnOjoxNzcyODMwODM5MjExIiwiaWF0IjoxNzcyODMwODUyLCJleHAiOjE3NzI5MTcyNTJ9.vx0BSw6l9ebHWF1rrjDgr3YVelmSedTEToOjhSmwlA8",
+      "lessonId": "lesson_2_adag",
+      "sessionId": "MOCK::lesson_2_adag::1772830839211",
+      "createdAt": 1772830852710
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8yX2FkYWciLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fMl9hZGFnOjoxNzcyODMwODYyODI3IiwiaWF0IjoxNzcyODMwODYzLCJleHAiOjE3NzI5MTcyNjN9.me9sW-kd5dPjatUv90UYgIHXexfEPwwQLgYVzfqFBm4",
+      "lessonId": "lesson_2_adag",
+      "sessionId": "MOCK::lesson_2_adag::1772830862827",
+      "createdAt": 1772830863045
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8yX2FkYWciLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fMl9hZGFnOjoxNzcyOTExODg2Nzg1IiwiaWF0IjoxNzcyOTExODg3LCJleHAiOjE3NzI5OTgyODd9.qLK5rlxfq9PF-HZ52h_tGWrDPsrvVGkJbqAXtbetTgo",
+      "lessonId": "lesson_2_adag",
+      "sessionId": "MOCK::lesson_2_adag::1772911886785",
+      "createdAt": 1772911887341
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI5MTIxNzQ0MTIiLCJpYXQiOjE3NzI5MTIxNzQsImV4cCI6MTc3Mjk5ODU3NH0.PYw00LmYqfxf7pKFo-VXRvRDmBUdT-w067leZ5FrS4Y",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772912174412",
+      "createdAt": 1772912174855
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8zX3JvY2siLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fM19yb2NrOjoxNzcyOTEyMTk4MjkyIiwiaWF0IjoxNzcyOTEyMTk4LCJleHAiOjE3NzI5OTg1OTh9._NcyOitOaCvHFvlsHNIqjTxHPIcStOHQfeZN5YuitN4",
+      "lessonId": "lesson_3_rock",
+      "sessionId": "MOCK::lesson_3_rock::1772912198292",
+      "createdAt": 1772912198524
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8xNzcyNzM5OTk4NjQ0Iiwic2Vzc2lvbklkIjoiTU9DSzo6bGVzc29uXzE3NzI3Mzk5OTg2NDQ6OjE3NzI5MTIyNTI2OTkiLCJpYXQiOjE3NzI5MTIyNTIsImV4cCI6MTc3Mjk5ODY1Mn0.gmVbAFSTh15zomweeM-RwH77FT2FzpKoR4MNRbmoCWY",
+      "lessonId": "lesson_1772739998644",
+      "sessionId": "MOCK::lesson_1772739998644::1772912252699",
+      "createdAt": 1772912252938
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZXNzb25JZCI6Imxlc3Nvbl8yX2FkYWciLCJzZXNzaW9uSWQiOiJNT0NLOjpsZXNzb25fMl9hZGFnOjoxNzcyOTEzMTI3NzAzIiwiaWF0IjoxNzcyOTEzMTI4LCJleHAiOjE3NzI5OTk1Mjh9.dqzw7pdwwwQhpPDAib2OQCL4pCuDfBlRh3Wr_pbF9yA",
+      "lessonId": "lesson_2_adag",
+      "sessionId": "MOCK::lesson_2_adag::1772913127703",
+      "createdAt": 1772913128358
+    }
+  ]
+}

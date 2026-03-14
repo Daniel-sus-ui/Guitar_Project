@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ffe8e1" />
+      <stop offset="100%" stop-color="#ffd1a9" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#g1)" rx="20" />
+  <g fill="#222" font-family="sans-serif">
+    <text x="40" y="60" font-size="28">Experience</text>
+    <text x="40" y="110" font-size="18">15+ years performing and teaching</text>
+  </g>
+</svg>
