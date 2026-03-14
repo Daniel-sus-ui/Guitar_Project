@@ -53,3 +53,4 @@ Notes:
 - This project serves protected lesson videos via `/api/stream/:video?token=...` which validates a JWT access token generated after payment.
 - For production, replace local streaming with S3 presigned URLs and secure storage; set S3 env vars in `.env`.
 # Guitar_Project
+# Guitar_Project
